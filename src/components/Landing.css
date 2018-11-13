@@ -1,0 +1,18 @@
+#landing {
+    position: relative;
+    background: url('../images/rain.jpg');
+    min-height: 600px;
+    background-size: 100%;
+    background-repeat: none;
+    
+}
+
+.primary-overlay {
+    background: rgba(118, 119, 121, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-top: 6%;
+}
