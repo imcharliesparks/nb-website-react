@@ -5,7 +5,7 @@ import './Header.css';
 export default class Header extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-md navbar-light fixed-top py-4 color--p-blue">
+      <nav className="navbar navbar-expand-md navbar-light fixed-top py-4 custom-header">
         <div className="container">
             <a href='#' className="navbar-brand">
                 <h3 className="d-inline align-middle color--white">Noah Bartell</h3>

@@ -1,5 +1,6 @@
-.color--p-blue {
+.custom-header {
     background-color: #003153;
+    opacity: 0.8;
 }
 
 .color--white {

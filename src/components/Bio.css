@@ -1,9 +1,20 @@
+#about {
+    background-color: rgb(243, 243, 243);
+}
+
 #about h3:after {
     display: block;
     height: 2px;
-    background-color: #fff;
+    background-color: #385a80;
     content: " ";
     width: 50px;
     margin: 0 auto;
     margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.about--img {
+    margin-left: 140px;
+    padding-bottom: 40px;
+    border-radius: 50%;
 }
