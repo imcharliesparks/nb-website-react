@@ -17,10 +17,13 @@ export default class Header extends Component {
                         <a href="#home" className="nav-link link--highlight">Home</a>
                     </li>
                     <li className="nav-item ">
-                        <a href="#about" className="nav-link link--highlight">About</a>
+                        <a href="#about" className="nav-link link--highlight">Projects</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#films" className="nav-link link--highlight">Filmography</a>
+                        <a href="#films" className="nav-link link--highlight">About</a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="#films" className="nav-link link--highlight">Contact</a>
                     </li>
                 </ul>
             </div>
