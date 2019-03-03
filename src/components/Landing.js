@@ -8,7 +8,7 @@ export default class Landing extends Component {
         <div className="primary-overlay text-white hero-text-box">
             <div className="container">
                 <div className="row-lg-6 text-center">
-                    <h2 className="display-2 mt-5 pt-5">Noah Bartell</h2>
+                    <h2 className="display-2 mt-5 pt-5" id="brand">Noah Bartel</h2>
                     <h3 className="display-4">Filmmaker</h3>
                     <p className="lead">Los Angeles, California</p>
                 </div>

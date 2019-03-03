@@ -1,3 +1,23 @@
 .projects {
     height: 800px;
 }
+
+/* .projects--container {
+    width: 100% !important;
+} */
+
+.projects--button {
+    width: 150px;
+}
+
+@media (max-width: 767px){
+    .projects--cards {
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+    .projects--container {
+        max-width: 100% !important;
+    }
+}

@@ -3,3 +3,5 @@ primary: #003153
 light: #385a80
 dark: #00082a
 */
+
+html, body { overflow-x: hidden; }
